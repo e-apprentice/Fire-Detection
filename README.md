@@ -1,2 +1,2 @@
 # Fire-Detection
-email sent on detecting fire by sensors
+Final code for waste hackathon 2025
